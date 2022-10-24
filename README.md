@@ -1,4 +1,4 @@
-### Hi, I'm Jetker Berdibaevich <img src = "https://gannon.tv/" witdh = "35px">
+### Hi, I'm Jetker Berdibaevich <img src="https://gannon.tv/" width="35">
 
 
 <!--
