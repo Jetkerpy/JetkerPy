@@ -1,4 +1,4 @@
-### Hi, I'm Jetker Berdibaevich <img src = 'https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e476icbbak4zgqh8zbm332zyqvebczbe5juuw7tsfp1&rid=giphy.gif&ct=s' width = '35px'>
+### Hi, I'm Jetker Berdibaevich <img src = 'https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e476icbbak4zgqh8zbm332zyqvebczbe5juuw7tsfp1&rid=giphy.gif&ct=s' width = '50px'>
 
 
 <!--
