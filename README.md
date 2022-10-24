@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Jetker Berdibaevich <img src = "https://gannon.tv/" witdh = "35px">
+
 
 <!--
 **Jetkerpy/JetkerPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
