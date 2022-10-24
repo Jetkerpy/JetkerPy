@@ -1,4 +1,4 @@
-### Hi, I'm Jetker Berdibaevich <img src="https://gannon.tv/" width="35px">
+### Hi, I'm Jetker Berdibaevich <img src="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry" width="35px">
 
 
 <!--
